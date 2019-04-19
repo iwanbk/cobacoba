@@ -1,4 +1,0 @@
-# Primitif Konkurensi
-
-Goroutines
-
