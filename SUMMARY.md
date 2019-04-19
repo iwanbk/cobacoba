@@ -1,5 +1,7 @@
 # Table of contents
 
 * [Intro](README.md)
-* [Basic](untitled.md)
+* [Primitif Konkurensi](untitled/README.md)
+  * [Channel](untitled/channel.md)
+  * [Goroutines](untitled/goroutines.md)
 
